@@ -1,2 +1,5 @@
 ./AppExamples/Example_One/dist
+
 ./AppExamples/Example_One/.parcel-cache
+
+./AppExamples/Express with TS/server/node_modules
